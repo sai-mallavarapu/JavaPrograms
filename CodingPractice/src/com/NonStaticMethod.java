@@ -16,6 +16,7 @@ class Counter {
 	   c1.increment();
 	   c2.increment();
 	   c2.increment();
+	   
 	   System.out.println(c1.getCount());
 	   System.out.println(c2.getCount());
 	}
