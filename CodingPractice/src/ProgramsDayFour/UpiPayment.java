@@ -10,6 +10,7 @@ public class UpiPayment extends Payment{
 	@Override
 	public void makePayment() {
 		System.out.println("upi payment is processing: "+amount);
+		
 		printReceipt();
 	}
 
