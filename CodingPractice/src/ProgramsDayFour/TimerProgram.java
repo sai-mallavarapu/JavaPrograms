@@ -15,8 +15,8 @@ public class TimerProgram {
 
 			}
 		};
-		timer.schedule(tt, 0, 3600000);
-		System.out.println("Message scheduler starts press ctrl+c to stop");
+		timer.schedule(tt, 1, 3600000);
+		System.out.println("Message scheduler starts press stop running  to stop");
 	}
 
 }

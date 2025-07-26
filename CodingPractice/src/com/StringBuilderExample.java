@@ -7,6 +7,7 @@ public class StringBuilderExample {
 
 	        for (int i = 1; i <=5; i++) {
 	            sb.append("Line ").append(i+"\n");
+	            
 	        }
 
 	        System.out.println("Result:\n" + sb);

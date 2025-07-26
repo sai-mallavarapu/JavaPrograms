@@ -26,6 +26,7 @@ class Person {
 			System.out.println(p1);
 			changename(p1);
 			System.out.println(p1);
+			System.out.println();
 		}
 	}
 	}

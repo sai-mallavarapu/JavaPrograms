@@ -2,7 +2,7 @@ package ProgramsDayFour;
 
 public class StringBasedProgram {
 public static void main(String[] args) {
-	String s="i am sai";
+	String s="  i am sai";
 	
 	System.out.println(s.length());
 	System.out.println(s.charAt(6));
