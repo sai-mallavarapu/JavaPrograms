@@ -23,7 +23,7 @@ class Collection_Comparable implements Comparable<Collection_Comparable> {
 		
 		List<Collection_Comparable> a=Arrays.asList(new Collection_Comparable("sai",23),new Collection_Comparable("sam",24));
 		Collections.sort(a);
-		System.out.println("sorted by age:"+a);
+		System.out.println("sorted by age:	"+a);
 	}
 
 }
